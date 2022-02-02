@@ -1,0 +1,209 @@
+{
+  "classes": [
+    {
+      "className": 10,
+      "studentresults": [
+        {
+          "studentName": "Student 1",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        },
+        {
+          "studentName": "Student 2",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "65%",
+          "mid1Score": 368,
+          "mid2score": 369,
+          "finalscore": 401
+        },
+        {
+          "studentName": "Student 3",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "55%",
+          "mid1Score": 234,
+          "mid2score": 326,
+          "finalscore": 289
+        },
+        {
+          "studentName": "Student 4",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        }
+      ]
+    },
+    {
+      "className": 9,
+      "studentresults": [
+        {
+          "studentName": "Student 1",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        },
+        {
+          "studentName": "Student 2",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "65%",
+          "mid1Score": 368,
+          "mid2score": 369,
+          "finalscore": 401
+        },
+        {
+          "studentName": "Student 3",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "55%",
+          "mid1Score": 234,
+          "mid2score": 326,
+          "finalscore": 289
+        },
+        {
+          "studentName": "Student 4",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        }
+      ]
+    },
+    {
+      "className": 8,
+      "studentresults": [
+        {
+          "studentName": "Student 1",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        },
+        {
+          "studentName": "Student 2",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "65%",
+          "mid1Score": 368,
+          "mid2score": 369,
+          "finalscore": 401
+        },
+        {
+          "studentName": "Student 3",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "55%",
+          "mid1Score": 234,
+          "mid2score": 326,
+          "finalscore": 289
+        },
+        {
+          "studentName": "Student 4",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        }
+      ]
+    },
+    {
+      "className": 7,
+      "studentresults": [
+        {
+          "studentName": "Student 1",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        },
+        {
+          "studentName": "Student 2",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "65%",
+          "mid1Score": 368,
+          "mid2score": 369,
+          "finalscore": 401
+        },
+        {
+          "studentName": "Student 3",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "55%",
+          "mid1Score": 234,
+          "mid2score": 326,
+          "finalscore": 289
+        },
+        {
+          "studentName": "Student 4",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        }
+      ]
+    },
+    {
+      "className": 6,
+      "studentresults": [
+        {
+          "studentName": "Student 1",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 499,
+          "mid2score": 501,
+          "finalscore": 499
+        },
+        {
+          "studentName": "Student 2",
+          "rank": 2,
+          "peformanceLevel": "On-Level",
+          "completedPercent": "65%",
+          "mid1Score": 368,
+          "mid2score": 369,
+          "finalscore": 401
+        },
+        {
+          "studentName": "Student 3",
+          "rank": 3,
+          "peformanceLevel": "Below-Level",
+          "completedPercent": "55%",
+          "mid1Score": 234,
+          "mid2score": 326,
+          "finalscore": 289
+        },
+        {
+          "studentName": "Student 4",
+          "rank": 1,
+          "peformanceLevel": "Above-Level",
+          "completedPercent": "85%",
+          "mid1Score": 498,
+          "mid2score": 501,
+          "finalscore": 499
+        }
+      ]
+    }
+  ]
+}
